@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\Laboratory Exercise 2\bin\Debug\netcoreapp3.1\Laboratory Exercise 2.exe
+C:\Users\HP\source\repos\Laboratory Exercise 2\bin\Debug\netcoreapp3.1\Laboratory Exercise 2.deps.json
+C:\Users\HP\source\repos\Laboratory Exercise 2\bin\Debug\netcoreapp3.1\Laboratory Exercise 2.runtimeconfig.json
+C:\Users\HP\source\repos\Laboratory Exercise 2\bin\Debug\netcoreapp3.1\Laboratory Exercise 2.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Laboratory Exercise 2\bin\Debug\netcoreapp3.1\Laboratory Exercise 2.dll
+C:\Users\HP\source\repos\Laboratory Exercise 2\bin\Debug\netcoreapp3.1\Laboratory Exercise 2.pdb
+C:\Users\HP\source\repos\Laboratory Exercise 2\obj\Debug\netcoreapp3.1\Laboratory Exercise 2.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Laboratory Exercise 2\obj\Debug\netcoreapp3.1\Laboratory Exercise 2.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Laboratory Exercise 2\obj\Debug\netcoreapp3.1\Laboratory Exercise 2.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Laboratory Exercise 2\obj\Debug\netcoreapp3.1\Laboratory Exercise 2.AssemblyInfo.cs
+C:\Users\HP\source\repos\Laboratory Exercise 2\obj\Debug\netcoreapp3.1\Laboratory Exercise 2.dll
+C:\Users\HP\source\repos\Laboratory Exercise 2\obj\Debug\netcoreapp3.1\Laboratory Exercise 2.pdb
+C:\Users\HP\source\repos\Laboratory Exercise 2\obj\Debug\netcoreapp3.1\Laboratory Exercise 2.genruntimeconfig.cache

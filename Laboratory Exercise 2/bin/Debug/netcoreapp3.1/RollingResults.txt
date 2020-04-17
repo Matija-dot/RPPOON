@@ -1,0 +1,22 @@
+Dice Roller - ROLL RESULTS
+ Die 1 with 6 sides: 3
+ Die 2 with 10 sides: 3
+ Die 3 with 9 sides: 6
+ Die 4 with 6 sides: 4
+ Die 5 with 14 sides: 5
+ Die 6 with 9 sides: 2
+ Die 7 with 15 sides: 10
+ Die 8 with 5 sides: 3
+ Die 9 with 15 sides: 12
+ Die 10 with 6 sides: 4
+ Die 11 with 13 sides: 8
+ Die 12 with 14 sides: 7
+ Die 13 with 10 sides: 2
+ Die 14 with 12 sides: 11
+ Die 15 with 7 sides: 7
+ Die 16 with 12 sides: 7
+ Die 17 with 8 sides: 2
+ Die 18 with 8 sides: 5
+ Die 19 with 8 sides: 8
+ Die 20 with 12 sides: 12
+
